@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **anything**
+- ⚡ Fun fact **I’m addicted to learning new things every day!**
 
-- ⚡ Fun fact **always learning**
-
-- 📫 **Let's connect!**
+- 📫 Want to collaborate? **Let's connect!**
 
 ---
 
