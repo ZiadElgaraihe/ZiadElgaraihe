@@ -5,9 +5,19 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 **Let's connect!** Click [here](#-connect-with-me) to reach me.
-
 - ⚡ Fun fact **always learning**
+
+- 📫 **Let's connect!**
+
+---
+
+<h2 align="left">🌍 Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/ziad-elgaraihe-b346a6267" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ZiadElgaraihe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send/?phone=201211911941" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="WhatsApp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:ziadelgaraihe301@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
+</p>
 
 ---
 
@@ -45,14 +55,4 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-
----
-
-<h2 align="left" id="connect-with-me">🌍 Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/ziad-elgaraihe-b346a6267" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ZiadElgaraihe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://api.whatsapp.com/send/?phone=201211911941" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="WhatsApp" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:ziadelgaraihe301@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
 </p>
