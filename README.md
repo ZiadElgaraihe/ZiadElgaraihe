@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
-<h3 align="center">Junior Flutter Developer</h3>
+<h3 align="center">Junior Flutter Developer</h3>&nbsp;
 
 - 🌱 I’m currently learning **Flutter**
 
