@@ -29,10 +29,6 @@
 <p> A real-time currency exchange and gold price tracking app with calculators and comparisons. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, BLoC, Hive, API Integration, Localization</p>
 
-<h3><a href="https://github.com/ZiadElgaraihe/llegar-ui-kit" target="_blank">📌 Llegar UI Kit</a></h3>
-<p> A modern Flutter UI kit for building scalable and customizable rental apps across various niches. </p>
-<p><b>Tech Stack:</b> Dart, Flutter, BLoC, Localization</p>
-
 <h3>📌 Evolve</h3>
 <p> An electric vehicle charging app with real-time updates and admin-controlled dispatch systems. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, Firebase</p>
