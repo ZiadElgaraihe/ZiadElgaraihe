@@ -41,6 +41,10 @@
 <p> A fitness coaching app for personalized training programs. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, API Integration</p>
 
+<h3>📌 Llegar</h3>
+<p> A modern rental platform supporting real estate, equipment, and more. </p>
+<p><b>Tech Stack:</b> Dart, Flutter, Firebase, Clean Architecture, Responsive Design</p>
+
 ---
 
 <h2>🛠️ Languages and Tools</h2>
