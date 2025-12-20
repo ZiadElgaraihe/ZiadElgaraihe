@@ -21,17 +21,13 @@
 
 <h2>🚀 Featured Projects</h2>
 
-<h3><a href="https://play.google.com/store/apps/details?id=com.rasid.rasid&hl=en" target="_blank">📌 Rasid</a></h3>
-<p> A real-time facility management app with monitoring, alerts, and reporting. </p>
-<p><b>Tech Stack:</b> Dart, Flutter, BLoC, MVVM, Hive, Dio, Firebase</p>
-
 <h3><a href="https://play.google.com/store/apps/developer?id=kafarat+plus" target="_blank">📌 Kafarat Plus</a></h3>
 <p> A full-featured automotive e-commerce app offering gas, tires, and accessories, with separate mobile apps for service providers and customers, and an admin dashboard for centralized management. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, API Integration, Firebase</p>
 
-<h3><a href="https://github.com/ZiadElgaraihe/black-market" target="_blank">📌 Black Market</a></h3>
-<p> A real-time currency exchange and gold price tracking app with calculators and comparisons. </p>
-<p><b>Tech Stack:</b> Dart, Flutter, BLoC, Hive, API Integration, Localization</p>
+<h3><a href="https://play.google.com/store/apps/details?id=com.rasid.rasid&hl=en" target="_blank">📌 Rasid</a></h3>
+<p> A real-time facility management app with monitoring, alerts, and reporting. </p>
+<p><b>Tech Stack:</b> Dart, Flutter, BLoC, MVVM, Hive, Dio, Firebase</p>
 
 <h3>📌 Evolve</h3>
 <p> An electric vehicle charging app with real-time updates and admin-controlled dispatch systems. </p>
@@ -41,9 +37,9 @@
 <p> A fitness coaching app for personalized training programs. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, API Integration</p>
 
-<h3>📌 Llegar</h3>
-<p> A modern rental platform supporting real estate, equipment, and more. </p>
-<p><b>Tech Stack:</b> Dart, Flutter, Firebase, Clean Architecture, Responsive Design</p>
+<h3>📌 Black Market</a></h3>
+<p> A real-time currency exchange and gold price tracking app with calculators and comparisons. </p>
+<p><b>Tech Stack:</b> Dart, Flutter, BLoC, Hive, API Integration, Localization</p>
 
 ---
 
