@@ -37,7 +37,7 @@
 <p> A fitness coaching app for personalized training programs. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, API Integration</p>
 
-<h3>📌 Black Market</a></h3>
+<h3><a href="https://github.com/ZiadElgaraihe/black-market" target="_blank">📌 Black Market</a></h3>
 <p> A real-time currency exchange and gold price tracking app with calculators and comparisons. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, BLoC, Hive, API Integration, Localization</p>
 
