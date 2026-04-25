@@ -25,7 +25,7 @@
 <p> A full-featured automotive e-commerce app offering gas, tires, and accessories, with separate mobile apps for service providers and customers, and an admin dashboard for centralized management. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, API Integration, Firebase</p>
 
-<h3><a href="https://play.google.com/store/apps/details?id=com.rasid.rasid&hl=en" target="_blank">📌 Rasid</a></h3>
+<h3><a href="https://github.com/ZiadElgaraihe/rasid-app-showcase" target="_blank">📌 Rasid</a></h3>
 <p> A real-time facility management app with monitoring, alerts, and reporting. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, BLoC, MVVM, Hive, Dio, Firebase</p>
 
@@ -53,6 +53,6 @@
 <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
