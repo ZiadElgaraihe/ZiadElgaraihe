@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 <h3 align="center">Flutter Developer</h3>&nbsp;
 
-- 🌱 I’m currently learning **Flutter**
+- 🚀 Building high-performance cross-platform applications with **Flutter**
+
+- 🌱 I’m currently learning **Laravel**
 
 - ⚡ Fun fact **I’m addicted to learning new things every day!**
 
