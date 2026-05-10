@@ -19,19 +19,23 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
       </a>
     </td>
+    </tr>
 
+<tr>
     <td align="center">
       <a href="https://github.com/ZiadElgaraihe" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="40"/>
       </a>
     </td>
-
+</tr>
+<tr>
     <td align="center">
       <a href="https://wa.me/201211911941" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" width="40" height="40"/>
       </a>
     </td>
-
+  </tr>
+</tr>
     <td align="center">
       <a href="mailto:ziadelgaraihe301@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40"/>
