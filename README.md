@@ -10,9 +10,15 @@
 ---
 
 <h2 align="left">🌍 Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/ziad-elgaraihe-b346a6267" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/></a><a href="https://github.com/ZiadElgaraihe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/></a><a href="https://wa.me/201211911941" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="WhatsApp" width="40" height="40" style="margin-right: 10px;"/></a><a href="mailto:ziadelgaraihe301@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
-</p>
+<table border="0">
+  <tr>
+    <td><a href="https://linkedin.com/in/ziad-elgaraihe-b346a6267" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/ZiadElgaraihe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/></a></td>
+    <td><a href="https://wa.me/201211911941" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="WhatsApp" width="40" height="40"/></a></td>
+    <td><a href="mailto:ziadelgaraihe301@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
 ---
 
 <h2>🚀 Featured Projects</h2>
@@ -35,15 +41,18 @@
 ---
 
 <h2>🛠️ Languages and Tools</h2>
-<p align="left">
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;&nbsp;
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="figma" width="40" height="40"/> </a>
+<table border="0">
+  <tr>
+    <td><a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a></td>
+    <td><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a></td>
+    <td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a></td>
+    <td><a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a></td>
+    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
+    <td><a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/></a></td>
+    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a></td>
+    <td><a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a></td>
+    <td><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a></td>
+    <td><a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a></td>
+  </tr>
+</table>
 </p>
