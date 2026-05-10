@@ -10,12 +10,28 @@
 ---
 
 <h2 align="left">🌍 Connect with me:</h2>
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td><a href="https://linkedin.com/in/ziad-elgaraihe-b346a6267" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a></td>
-    <td><a href="https://github.com/ZiadElgaraihe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/></a></td>
-    <td><a href="https://wa.me/201211911941" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="WhatsApp" width="40" height="40"/></a></td>
-    <td><a href="mailto:ziadelgaraihe301@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a></td>
+    <td style="border: none;">
+      <a href="https://linkedin.com/in/ziad-elgaraihe-b346a6267" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="display: block; margin-right: 15px;"/>
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/ZiadElgaraihe" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40" style="display: block; margin-right: 15px;"/>
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://wa.me/201211911941" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/WhatsApp_Logo_green.svg" alt="WhatsApp" width="40" height="40" style="display: block; margin-right: 15px;"/>
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="mailto:ziadelgaraihe301@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40" style="display: block;"/>
+      </a>
+    </td>
   </tr>
 </table>
 
