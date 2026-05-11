@@ -38,7 +38,7 @@
 <p> A modern water tourism platform connecting passengers with boat providers through seamless booking and real-time trip requests. </p>
 <p><b>Tech Stack:</b> Dart, Flutter, Google Maps API, Shared Preferences</p>
 
-<h3><a href="https://ziad-elgaraihe.vercel.app/" target="_blank">📌 Personal Portfolio</a></h3>
+<h3><a href="https://github.com/ZiadElgaraihe/portfolio" target="_blank">📌 Personal Portfolio</a></h3>
 <p> A modern responsive Flutter web portfolio showcasing my projects, experience, and technical skills with smooth animations and interactive UI. </p>
 <p><b>Tech Stack:</b> Flutter Web, Dart, Responsive UI, EmailJS</p>
 ---
